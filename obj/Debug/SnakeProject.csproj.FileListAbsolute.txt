@@ -1,0 +1,22 @@
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\bin\Debug\SnakeProject.exe.config
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\bin\Debug\SnakeProject.exe
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\bin\Debug\SnakeProject.pdb
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\bin\Debug\Raylib-cs.dll
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csprojAssemblyReference.cache
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csproj.CopyComplete
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\obj\Debug\SnakeProject.exe
+C:\Users\ludwi\source\repos\SnakeProject\SnakeProject\obj\Debug\SnakeProject.pdb
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\obj\Debug\SnakeProject.exe
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\obj\Debug\SnakeProject.pdb
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\bin\Debug\SnakeProject.exe.config
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\bin\Debug\SnakeProject.exe
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\bin\Debug\SnakeProject.pdb
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\bin\Debug\Raylib-cs.dll
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csprojAssemblyReference.cache
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Erik Calissendorff\Desktop\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csproj.CopyComplete
